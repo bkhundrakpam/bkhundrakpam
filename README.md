@@ -1,1 +1,2 @@
 I am a researcher with training in Physics, Biomedical Engineering and Neuroscience with research experience in neuroimaging analysis (such as image-processing) of large-scale human brain and behavioural datasets using machine-learning tools (such as support vector machine, SVM and elastic net penalized linear regression) and advanced statistical techniques such as mixed effects general linear model (GLM), partial least squares (PLS) and canonical correlation analysis (CCA) 
+I have extensive experience in applying ML models in healthcare datasets
