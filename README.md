@@ -1,4 +1,4 @@
-# Data scientist/researcher trained in Physics, Biomedical Engineering and Neuroscience with extensive experience in applying analytical and machine learning techniques in healthcare and social science datasets
+# Data scientist with extensive experience in applying analytical and machine learning techniques in healthcare and social science datasets
 
 # Machine Learning applications in Health and Disease
 
