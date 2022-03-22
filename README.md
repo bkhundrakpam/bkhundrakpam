@@ -1,4 +1,4 @@
-# Data scientist with extensive experience in applying analytical and machine learning techniques in healthcare and social science datasets
+# Data scientist with extensive experience in healthcare and social science domains
 
 # Machine Learning applications in Health and Disease
 
