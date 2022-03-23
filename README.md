@@ -10,7 +10,7 @@
 
 3. Built a predictive model of chronological age with ~70% explained variance compared to 45% explained variance in previous models, using elastic net penalized linear regression model in MATLAB (details in Khundrakpam et al. NeuroImage 2015)
 
-# Multivariate analysis of social environmental factors and brain 
+# Multivariate analysis of social environmental factors, brain and mental health 
 
 1. Built multivariate models of social environmental factors and multi-modal brain data using canonical correlation analysis (CCA) and partial least squares (PLS) of a large sample of population dataset (12,000 individuals comprising of social environmental and neuroimaging data) in MATLAB
 
